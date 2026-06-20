@@ -19,4 +19,7 @@ research-analysis/
 - Submit via the [submission form](https://github.com/Drvivek34/Custom-Instruction-Bazaar/issues/new/choose).
 
 ## Entries
-_No entries yet — be the first to contribute!_
+
+| Entry | Description |
+|---|---|
+| [Academic Paper Reviewer](academic-paper-reviewer/) | System instructions that direct an LLM to evaluate academic manuscripts, check for methodological flaws, verify citations, and improve copy editing. |

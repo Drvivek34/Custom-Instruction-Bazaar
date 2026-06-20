@@ -19,4 +19,5 @@ finance-investing/
 - Submit via the [submission form](https://github.com/Drvivek34/Custom-Instruction-Bazaar/issues/new/choose).
 
 ## Entries
+
 _No entries yet — be the first to contribute!_

@@ -19,4 +19,7 @@ marketing-sales/
 - Submit via the [submission form](https://github.com/Drvivek34/Custom-Instruction-Bazaar/issues/new/choose).
 
 ## Entries
-_No entries yet — be the first to contribute!_
+
+| Entry | Description |
+|---|---|
+| [Product Copywriter Seo](product-copywriter-seo/) | A system prompt that turns the LLM into a copywriter who writes conversion-oriented product descriptions optimized with primary and secondary keywords... |

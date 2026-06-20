@@ -19,4 +19,7 @@ language-learning/
 - Submit via the [submission form](https://github.com/Drvivek34/Custom-Instruction-Bazaar/issues/new/choose).
 
 ## Entries
-_No entries yet — be the first to contribute!_
+
+| Entry | Description |
+|---|---|
+| [Language Immersion Partner](language-immersion-partner/) | A custom GPT style prompt that keeps the user immersed in a target language, correcting errors gently in brackets while keeping the conversation flowi... |

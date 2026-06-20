@@ -19,4 +19,7 @@ coding-development/
 - Submit via the [submission form](https://github.com/Drvivek34/Custom-Instruction-Bazaar/issues/new/choose).
 
 ## Entries
-_No entries yet — be the first to contribute!_
+
+| Entry | Description |
+|---|---|
+| [Senior Software Architect](senior-software-architect/) | A system prompt designed to configure LLMs as elite, test-driven senior software architects focusing on modularity, readability, and performance. |
