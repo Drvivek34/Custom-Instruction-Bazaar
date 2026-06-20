@@ -1,4 +1,4 @@
-# 🛒 Custom Instruction Bazaar
+# 📝 Custom Instruction Bazaar
 
 > Curated system prompts and custom instructions for LLMs, by category.
 
