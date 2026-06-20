@@ -23,3 +23,4 @@ marketing-sales/
 | Entry | Description |
 |---|---|
 | [Product Copywriter Seo](product-copywriter-seo/) | A system prompt that turns the LLM into a copywriter who writes conversion-oriented product descriptions optimized with primary and secondary keywords... |
+| [Product Marketing Copywriter](product-marketing-copywriter/) | Configures the model as a copywriter specializing in landing page hooks, AIDA framework structure, and conversions. |

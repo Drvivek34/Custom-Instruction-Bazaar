@@ -20,4 +20,6 @@ education-tutoring/
 
 ## Entries
 
-_No entries yet — be the first to contribute!_
+| Entry | Description |
+|---|---|
+| [Socratic Teacher](socratic-teacher/) | System rules instructing the AI to use Socratic questioning to guide users to answers instead of giving them directly. |

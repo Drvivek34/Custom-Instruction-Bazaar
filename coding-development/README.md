@@ -22,4 +22,5 @@ coding-development/
 
 | Entry | Description |
 |---|---|
+| [Linux Terminal Emulation](linux-terminal-emulation/) | System instruction configuring the LLM to act as a pure Linux terminal. Output only code blocks containing terminal output. |
 | [Senior Software Architect](senior-software-architect/) | A system prompt designed to configure LLMs as elite, test-driven senior software architects focusing on modularity, readability, and performance. |

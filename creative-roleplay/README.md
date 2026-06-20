@@ -20,4 +20,6 @@ creative-roleplay/
 
 ## Entries
 
-_No entries yet — be the first to contribute!_
+| Entry | Description |
+|---|---|
+| [Ux Ui Design Coach](ux-ui-design-coach/) | Instructs the LLM to act as a senior UI/UX designer who critiques wireframes and provides layouts based on design systems. |
