@@ -1,0 +1,87 @@
+name: "➕ Submit a Custom Instruction"
+description: "Add a system prompt / custom instruction set to the Custom Instruction Bazaar."
+title: "[Instruction] <name>"
+labels: ["submission", "custom-instruction"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for contributing to **Custom Instruction Bazaar**! Attribution is mandatory."
+  - type: input
+    id: name
+    attributes:
+      label: Instruction set name
+      placeholder: "e.g. senior-rust-engineer"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL (or 'original')
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - coding-development
+        - writing-editing
+        - business-strategy
+        - marketing-sales
+        - research-analysis
+        - education-tutoring
+        - creative-roleplay
+        - productivity
+        - customer-support
+        - data-analytics
+        - legal
+        - medical-health
+        - finance-investing
+        - language-learning
+        - personal-development
+        - hr-recruiting
+        - gaming
+        - misc
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Target platform
+      options:
+        - ChatGPT / Custom GPT
+        - Claude / Projects
+        - Gemini / Gems
+        - Any / model-agnostic
+        - other
+    validations:
+      required: false
+  - type: input
+    id: author
+    attributes:
+      label: Author / credit
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: Original license
+      placeholder: "e.g. MIT, CC0, unknown"
+    validations:
+      required: true
+  - type: textarea
+    id: instruction
+    attributes:
+      label: The instruction / system prompt
+      render: markdown
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have provided the source and original license; this is properly attributed.
+          required: true
+        - label: Nominate this for the ⭐ Featured shelf (optional).
+          required: false
