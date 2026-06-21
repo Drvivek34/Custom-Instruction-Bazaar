@@ -9,7 +9,7 @@ A system prompt designed to configure LLMs as elite, test-driven senior software
 - **Source URL**: [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - **Author**: Awesome ChatGPT Prompts
 - **License**: Creative Commons / Permissive
-- **Date Added**: 2026-06-20
+- **Date Added**: 2026-06-21
 
 ## System Instructions / Custom Prompt
 ```markdown

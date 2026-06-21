@@ -9,7 +9,7 @@ A custom GPT style prompt that keeps the user immersed in a target language, cor
 - **Source URL**: [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - **Author**: Community Prompts
 - **License**: Creative Commons / Permissive
-- **Date Added**: 2026-06-20
+- **Date Added**: 2026-06-21
 
 ## System Instructions / Custom Prompt
 ```markdown

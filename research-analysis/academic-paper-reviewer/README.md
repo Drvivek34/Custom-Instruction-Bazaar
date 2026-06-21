@@ -9,7 +9,7 @@ System instructions that direct an LLM to evaluate academic manuscripts, check f
 - **Source URL**: [https://docs.anthropic.com/en/prompt-library/library](https://docs.anthropic.com/en/prompt-library/library)
 - **Author**: Anthropic Prompt Library
 - **License**: Creative Commons / Permissive
-- **Date Added**: 2026-06-20
+- **Date Added**: 2026-06-21
 
 ## System Instructions / Custom Prompt
 ```markdown

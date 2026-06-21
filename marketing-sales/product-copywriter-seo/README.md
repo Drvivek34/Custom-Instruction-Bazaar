@@ -9,7 +9,7 @@ A system prompt that turns the LLM into a copywriter who writes conversion-orien
 - **Source URL**: [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - **Author**: SEO Community
 - **License**: Creative Commons / Permissive
-- **Date Added**: 2026-06-20
+- **Date Added**: 2026-06-21
 
 ## System Instructions / Custom Prompt
 ```markdown
