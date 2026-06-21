@@ -29,6 +29,7 @@ Custom Instruction Bazaar is a categorized library of **system prompts and custo
 | [Personal Development](personal-development/) | Coaching, journaling, and habit personas. |
 | [Productivity](productivity/) | Planning, GTD, and personal-assistant instructions. |
 | [Research & Analysis](research-analysis/) | Analyst, fact-checker, and deep-research instructions. |
+| [Security](security/) | System prompts focusing on security testing, threat modeling, and defensive configurations. |
 | [Writing & Editing](writing-editing/) | Instructions for tone, style, and editorial control. |
 
 ## 🗂️ How it's organized

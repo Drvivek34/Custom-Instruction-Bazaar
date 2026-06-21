@@ -1,6 +1,6 @@
-# Data & Analytics
+# Security
 
-Data analyst and BI-focused instructions.
+System prompts focusing on security testing, threat modeling, and defensive configurations.
 
 > Part of **[Custom Instruction Bazaar](../README.md)** · Browse all bazaars at the **[Mega AI Bazaar](https://drvivek34.github.io/Mega-AI-Bazaar/)**.
 
@@ -8,7 +8,7 @@ Data analyst and BI-focused instructions.
 Each instruction set lives in **its own sub-folder** inside this category, named in `kebab-case`:
 
 ```
-data-analytics/
+security/
 └── <entry-name>/
     ├── README.md     # what it is, source, author, license, link
     └── ...           # the actual files (full copy)
@@ -22,4 +22,4 @@ data-analytics/
 
 | Entry | Description |
 |---|---|
-| [Database Administrator Designer](database-administrator-designer/) | A system prompt designed to instruct the model as a database administrator who designs relational schemas, writes raw SQL, and optimizes query perform... |
+| [Cyber Security Specialist](cyber-security-specialist/) | System instructions configuring the LLM as a cybersecurity specialist to formulate data protection strategies, analyze storage models, and recommend f... |
